@@ -1,7 +1,7 @@
 """
 COMP 163 - Project 2: Character Abilities Showcase
-Name: [Your Name Here]
-Date: [Date]
+Name: [William Webster]
+Date: [11/13/2025]
 
 AI Usage: AI helped with inheritance structure and method overriding concepts (Free Use)
 """
